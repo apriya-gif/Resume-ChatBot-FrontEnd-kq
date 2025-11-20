@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/apriyagcp-7825s-projects/v0-resumechatbotfrontend](https://vercel.com/apriyagcp-7825s-projects/v0-resumechatbotfrontend)**
+**[https://vercel.com/apriyagcp-7825s-projects/v0-resumechatbotfrontend](https://resume-chatbot-frontend-puce.vercel.app/)**
 
 ## Build your app
 
