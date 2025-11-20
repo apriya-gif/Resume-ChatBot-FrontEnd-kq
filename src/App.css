@@ -255,8 +255,9 @@ body {
   grid-column: 2;
   grid-row: 1;
   /* Explicitly Row 1 */
-  min-height: 600px;
-  /* Ensure it has height */
+  height: 600px;
+  /* Fixed height so the chat card does not grow with content */
+  overflow: hidden;
 }
 
 .chat-header {
@@ -736,7 +737,7 @@ body {
   }
 
   .chat-card {
-    min-height: 600px;
+    height: 600px;
   }
 
   .projects-grid {
