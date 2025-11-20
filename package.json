@@ -26,6 +26,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.454.0",
+    "next": "16.0.3",
     "next-themes": "latest",
     "react": "^18.2.0",
     "react-dom": "latest",
@@ -37,7 +38,10 @@
   },
   "devDependencies": {
     "@types/node": "^22",
+    "@types/react": "19.2.6",
+    "@types/react-dom": "19.2.3",
     "postcss": "^8.5",
+    "tailwindcss": "4.1.17",
     "typescript": "^5"
   }
 }
